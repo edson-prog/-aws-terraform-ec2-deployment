@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIASC3JRC2QH43XMVML"
-  secret_key = "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"
+  access_key = "sua-access-key"
+  secret_key = "sua-secret-key"
 }
 
 # Crie uma chave SSH
