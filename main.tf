@@ -1,5 +1,6 @@
 provider "aws" {
   region     = "us-east-1"
+#Para uma bucket mais segura configure sua CLI para não precisar utilizar sua key's
   access_key = "sua-access-key"
   secret_key = "sua-secret-key"
 }
